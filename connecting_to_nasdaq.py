@@ -8,7 +8,7 @@ print("Please enter the year:")
 
 my_date = input()
 if my_date == "":
-    print("ha ha ha There is no date and we can not support anymore")
+    print("ha haa haa There is no date and we can not support anymore")
 else:
     root = Tk()
     root.directory =  filedialog.askdirectory(initialdir = "/",title = "Select Directory")
