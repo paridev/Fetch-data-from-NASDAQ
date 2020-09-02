@@ -9,7 +9,7 @@ print("Please enter the year:")
 my_date = input()
 if my_date == "":
 
-    print("ho ho ho There is no date and we can not support anymore")
+    print("ho hoo ho There is no date and we can not support anymore")
 
 else:
     root = Tk()
